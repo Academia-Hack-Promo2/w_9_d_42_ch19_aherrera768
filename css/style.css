@@ -1,0 +1,118 @@
+body{
+	margin: 0 auto;
+	background-image: url('../img/aaa.jpg');
+	background-size: 78% auto;
+}
+
+div{
+	font-size: 100%;
+}
+
+.black{
+	font-size: 100%;
+	background: #000;
+	color: #fff;
+}
+
+.col1{	
+	position: absolute;
+	width: 40px;
+	height: 40px;
+}
+
+.col2{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 40px;
+}
+
+.col3{	
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 80px;
+}
+
+.col4{	
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 120px;
+}
+
+.col5{	
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 160px;
+}
+
+.col6{	
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 200px;
+}
+
+.col7{	
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 240px;
+}
+
+.col8{	
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 280px;
+}
+
+.fil1{
+	top: 0;
+}
+
+.fil2{
+	top: 40px;
+}
+
+.fil3{
+	top: 80px;
+}
+
+.fil4{
+	top: 120px;
+}
+
+.fil5{
+	top: 160px;
+}
+
+.fil6{
+	top: 200px;
+}
+
+.fil7{
+	top: 240px;
+}
+
+.fil8{
+	top: 280px;
+}
+
+.white{
+	background: #fff;
+	color: orange;
+}
+
+#cd{
+	font-size: 180%;
+	margin: 70px auto;
+	position: relative;
+	width: 320px;
+	height: 320px;
+    border: 10px solid #000;
+    color: #fff;
+    text-align: center;
+}
